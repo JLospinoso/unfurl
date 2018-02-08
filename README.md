@@ -1,1 +1,1 @@
-![unfurl logo](https://github.com/JLospinoso/unfurl/raw/master/unfurl.png)
+![unfurl logo](https://github.com/JLospinoso/unfurl/raw/master/img/unfurl.png)
